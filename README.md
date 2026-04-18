@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Saanvi 👋
 
-<!--
-**SaanviJain175/SaanviJain175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Sc. Economics & Data Analytics | CHRIST University, Noida  
 
-Here are some ideas to get you started:
+## 💡 Interests
+- Equity Research  
+- Data Analytics  
+- Financial Modelling  
+- Fintech  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python · R · SQL · Power BI · MongoDB · Scikit-learn  
+
+## 📊 Projects
+- Exam Anxiety Level Predictor (ML + GenAI)
+- Ghost Restaurant Detection (MongoDB Analytics)
+- India Budget Fiscal Analysis (OLS Research)
+
+## 🚀 Currently Working On
+- Machine Learning + GenAI integration
+- Financial data analysis and modelling
+
+## 📫 Contact
+- LinkedIn: https://linkedin.com/in/saanvi-jain-06616230
+- Email: sjain72006@gmail.com
