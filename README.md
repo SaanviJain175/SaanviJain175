@@ -1,6 +1,6 @@
 # Hi, I'm Saanvi 👋
 
-🎓 B.Sc. Economics & Data Analytics | CHRIST University, Noida  
+🎓 B.Sc. Economics & Data Analytics | CHRIST (Deemed to be University), Delhi NCR 
 
 ## 💡 Interests
 - Equity Research  
